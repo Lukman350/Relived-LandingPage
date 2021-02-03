@@ -1,0 +1,21 @@
+.modal-header, .modal-footer {
+	background-color: #c02329 !important;
+	color: white !important;
+}
+
+.nav-link.active {
+	color: #c02329 !important;
+}
+
+.logo {
+	height: 50px;
+	width: 100px;
+}
+
+.btn-info:hover {
+	background-color: rgba(192, 35, 41, 0.5) !important;
+}
+
+a {
+	text-decoration: none;
+}
