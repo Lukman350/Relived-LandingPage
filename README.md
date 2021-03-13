@@ -7,5 +7,5 @@ Link Website:
 ## Credits
 - Bootstrap framework
 - https://undraw.co for awesome svg
-- PHP
+- PHP for cURL
 - Me for created this awesome Landing Page
