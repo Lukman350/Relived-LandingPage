@@ -9,7 +9,7 @@ function getCurl($url) {
   return json_decode($output, true);
 }
 
-$data = getCurl("https://samp-api.tk/server/35.247.149.106:7777");
+$data = getCurl("https://samp-api.tk/server/YOUR_SERVER_IP_HERE");
 ?>
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
