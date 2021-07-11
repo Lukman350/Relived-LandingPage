@@ -328,7 +328,7 @@ $data = getCurl("https://samp-api.tk/server/YOUR_SERVER_IP_HERE");
     <script src="vendors/bootstrap/bootstrap.min.js"></script>
     <script src="vendors/is/is.min.js"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
+    <script src="assets/js/theme.min.js"></script>
     <script src="assets/js/landing/page.js"></script>
 
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,700;1,900&amp;display=swap" rel="stylesheet">
